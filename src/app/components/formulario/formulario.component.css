@@ -1,0 +1,10 @@
+.heading{
+    font-family: 'Ralaway', sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+}
+.btn{
+    font-size: 1.5rem;
+}
